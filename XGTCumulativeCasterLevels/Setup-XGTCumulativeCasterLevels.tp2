@@ -11,7 +11,7 @@ LANGUAGE ~English~
 BEGIN @2
 DESIGNATED 100
 LABEL ~XGTCumulativeCasterLevels~
-REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet~ @3
+REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet iwdee~ @3
 REQUIRE_PREDICATE (MOD_IS_INSTALLED ~EEex/EEex.tp2~ ~0~) @4
 
 COPY ~%MOD_FOLDER%/lua/M_XGTCCL.lua~ ~override/M_XGTCCL.lua~

@@ -1,7 +1,7 @@
 # XGTCumulativeCasterLevels
 
 ## Description
-This is a WeiDU mod for the Infinity Engine Enhanced Edition games (BGEE, BG2EE, EET) that allows casting level bonuses from various sources to accumulate. **Requires EEEx**
+This is a WeiDU mod for the Infinity Engine Enhanced Edition games (BGEE, BG2EE, IWD:EE, EET) that allows casting level bonuses from various sources to accumulate. **Requires EEEx**
 
 By default, Casting Level bonuses in the IE games do not stack -- the last-applied effect always wins. This mod fixes that. So if you had a class kit that had a -2 malus to Arcane Casting Level, wore a robe that gave +3 to Arcane Casting Level, and picked up a proficiency that gave +1 to Arcane Casting Level:
 
